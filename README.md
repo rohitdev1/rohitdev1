@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rohit! 👋 AI Engineer & Full-Stack Developer
 
-<!--
-**rohitdev1/rohitdev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building production-grade AI systems, multi-agent frameworks, and resilient backends. I specialize in bridging the gap between non-deterministic LLMs and stable, deterministic software engineering.
 
-Here are some ideas to get you started:
+## 🚀 Highlighted Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [AI-Driven Automated Research Pipeline](https://github.com)
+An evaluation-driven multi-agent backend engineered to execute structured semantic analysis with strict Pydantic JSON validation layers and microservice scalability.
+* **Core Stack:** Python, Anthropic SDK, FastAPI, Pydantic, Docker
+* **Key Achievement:** Engineered a dual-mode telemetry script with automated system fallback paths, resulting in a **100% data ingestion resiliency score** during upstream infrastructure blocks.
+* **Continuous Testing:** Includes an built-in validation engine (`/evals`) asserting factual keyword distribution and model response bounds.
+
+## 🛠️ Technical Toolkit
+* **AI/LLM Engineering:** Prompt Engineering, Structured Outputs (JSON Schema/Pydantic), LLM-as-a-Judge Evaluation, Tool-Calling/Function Architectures.
+* **Backend & DevOps:** Python, FastAPI, Docker, RESTful APIs, Git, CI/CD Workflows.
+
+---
+*Feel free to explore my repositories or connect with me regarding backend and AI engineering collaborations!*
