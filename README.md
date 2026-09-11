@@ -1,6 +1,6 @@
-# Hi, I'm Rohit! 👋 AI Engineer & Full-Stack Developer
+# Hi, I'm Rohit! 👋 Data Scientist & AI Engineer
 
-Passionate about building production-grade AI systems, multi-agent frameworks, and resilient backends. I specialize in bridging the gap between non-deterministic LLMs and stable, deterministic software engineering.
+I am Passionate about building production-grade AI systems, multi-agent frameworks, and resilient backends. I specialize in bridging the gap between non-deterministic LLMs and stable, deterministic software engineering.
 
 ## 🚀 Highlighted Project
 
